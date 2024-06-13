@@ -30,7 +30,9 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-   
+
+
+   ![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch9729&show_icons=true&theme=radical)
 </div>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 
