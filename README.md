@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+GitHub!👋)](https://git.io/typing-svg)
+<p align='center'>
+  <a href="https://github.com/ch9729">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=ChangHyun's%20Lecture%20Repository&fontSize=40"/>
+  </a>
+</p>
 
 ## Profile
 - 이름 : 박창현
@@ -45,7 +48,7 @@
     <br><br>
 
 ## Portfolio
--Java
+- Java
     - [SpringBoot](https://github.com/ch9729/basic-springboot-2024)
 
   ## GitHub Stat and Languages
@@ -56,6 +59,7 @@
   </a>
 </p>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
+
 
 
 
