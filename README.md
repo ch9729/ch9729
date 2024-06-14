@@ -1,13 +1,13 @@
 <p align='center'>
   <a href="https://github.com/ch9729">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=d0e3e2&height=300&section=header&text=ChangHyun's%20Lecture%20Repository&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=ChangHyun's%20Lecture%20Repository%&fontColor=005174&fontSize=40&animation=blinking"/>
   </a>
 </p>
 
 ## Profile
 - 이름 : 박창현
 - 직업 : 미래 Java 개발자
-- 경력 : 빅데이터를 활용한 자바 개발자(2024) 
+- 활동 : 빅데이터를 활용한 자바 개발자(2024) 
 - Email : karlll@naver.com
 
 
@@ -58,7 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch9729&theme=onelight&layout=compact"/>
   </a>
 </p>
-<img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 
 
