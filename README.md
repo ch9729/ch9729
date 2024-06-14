@@ -40,8 +40,7 @@
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
     <img height="40" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
-    <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
-     <img height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ idea">
+    <img height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ idea">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
     <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
