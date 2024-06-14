@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" title="Visual Studio Code"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"  title="Visual Studio"> 
     </div>
-<br><br><br>
+<br><br>
 
 ## Using Tools
 <p align='left'>
@@ -47,6 +47,7 @@
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
+    <br><br>
 
   ## GitHub Stat and Languages
 <p align='center'>
