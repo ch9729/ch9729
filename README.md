@@ -38,8 +38,13 @@
     </div>
 <br><br><br>
 
-   ![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch9729&show_icons=true&theme=radical)
-</div>
+  ## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/ch9729">
+    <img src="https://github-readme-stats.vercel.app/api?username=ch9729&theme=onedark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch9729&theme=onedark&layout=compact"/>
+  </a>
+</p>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 
 <!--
