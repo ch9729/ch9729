@@ -51,19 +51,12 @@
     <div>
         <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+      <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     </div>
 
     
   
 <br><br>
-
-## Using Tools
-<p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-    <img height="40" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" title="Visual Studio">
-    <img height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ idea">
-    <img height="40" src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" title="Git hub">
-    <br><br>
 
 ## Portfolio
 - Java
