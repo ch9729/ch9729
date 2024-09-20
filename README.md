@@ -6,7 +6,7 @@
 
 ## Profile
 - 이름 : 박창현
-- 직업 : 미래 Java 개발자
+- 직업 : 미래 Java개발자
 - 활동 : 실무 프로젝트 기반 프론트엔드(React) & 백엔드(Spring), AWS 개발 (2024.09 ~)
 - Email : karlll@naver.com
 
@@ -37,7 +37,10 @@
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" title="Visual Studio Code"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"  title="Visual Studio"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
+  
 <br><br>
 
 ## Using Tools
