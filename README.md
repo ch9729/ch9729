@@ -7,7 +7,7 @@
 ## Profile
 - 이름 : 박창현
 - 직업 : 미래 Java개발자
-- 활동 : 실무 프로젝트 기반 프론트엔드(React) & 백엔드(Spring), AWS 개발 (2024.09 ~)
+- 활동 : 실무 프로젝트 기반 프론트엔드(React) & 백엔드(Spring), AWS 개발 (2024.09 ~ 2025.03)
 - Email : karlll@naver.com
 
 
